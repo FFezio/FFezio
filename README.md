@@ -1,12 +1,16 @@
 # 👋 What's up, **Fezio** here 🌚☝️  
 ### Comp-Sci undergrad • Low-level enjoyer • Coding since I shouldn't have
 
+
 I'm that student who shows up already knowing half the syllabus.  
 Python, Lua, Nim… and an unhealthy love for low-level work.  
 Frontend? …no.  
-Figma? I use it, but it knows I don’t love it.  
-Organization, documentation, and project management?  
-I keep them like my code, 0 warnings⚠️.
+Figma? I use it, but it knows I don’t love it. 
+
+0 warnings gang⚠️.
+
+
+
 
 ---
 
