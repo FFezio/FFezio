@@ -44,8 +44,6 @@ I keep them like my code, 0 warnings⚠️.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="60" height="60" />
-
-
 </p>         
 
 **Interests:**  
@@ -54,13 +52,6 @@ I keep them like my code, 0 warnings⚠️.
 
 ---
 
-## 🔧 Currently Working On
-- A protocol-agnostic audio mixer automation API  
-- Random CLI tools that nobody asked for but work  
-- A small MVP-like framework for tk/qt libraries (Python)
-- Improving my C skills because Python slows me down ;) // (not quite)
-
----
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=FFezio&show_icons=true&theme=tokyonight)  
