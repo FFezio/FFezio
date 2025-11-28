@@ -38,8 +38,15 @@ I keep them like my code, 0 warnings⚠️.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="60" height="60" />
 </p>
-  
 
+**My Go-To Distros**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="60" height="60" />
+
+
+</p>         
 
 **Interests:**  
 `Low-level` · `Compilers` · `Embedded` · `Drivers` · `Game engines` · `UI design`  
