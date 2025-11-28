@@ -17,7 +17,7 @@ I keep them like my code, 0 warnings⚠️.
 - Builds APIs, automation tools, UIs, whatever feels interesting that week. 🛠️
 - On a love/hate relationship with Figma... 🖤
 - If I enjoy it, I absorb it in O(1). Fast is an understatement. ⚡
-- Always learning✌️
+- Always learning.✌️
 ---
 
 ## 💻 Tech Stack  
