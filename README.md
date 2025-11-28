@@ -13,10 +13,10 @@ I keep them like my code, 0 warnings⚠️.
 ## ⚡ About Me
 - Peace = rain☔ + night🌑;
 - outsideCoding = Music🎧 + writing✍️ + drawing🎨 + Anime😻;
-- Enjoys writing code that tickles my brain.
-- Builds APIs, automation tools, UIs, whatever feels interesting that week.
-- On a love/hate relationship with Figma...
-- If I enjoy it, I absorb it in O(1). Fast is an understatement.
+- Enjoys writing code that tickles my brain. 🧠
+- Builds APIs, automation tools, UIs, whatever feels interesting that week. 🛠️
+- On a love/hate relationship with Figma... 🖤
+- If I enjoy it, I absorb it in O(1). Fast is an understatement. ⚡
 
 ---
 
