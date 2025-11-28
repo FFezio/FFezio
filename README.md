@@ -22,7 +22,7 @@ I keep them like my code, 0 warnings⚠️.
 
 ## 💻 Tech Stack  
 **Languages:**  
-`Python` · `C` · `Lua` · `Nim` · `Bash`
+`Python` · `C` · `Lua` · `Nim` · `Paper`
 
 **Interests:**  
 `Low-level` · `Compilers` · `Embedded` · `Drivers` · `Game engines` · `UI design`  
